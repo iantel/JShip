@@ -1,1 +1,0 @@
-This is the first thing that will appear when the program runs. The user is given the option to start a new game, change options, and exit. In the options screen, there are instructions as to how to play the game and the user is given the option to remove sound. There is also the option to change the difficulty of the game.
